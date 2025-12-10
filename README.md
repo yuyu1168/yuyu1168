@@ -2,13 +2,12 @@
 <html lang="zh-CN">
 <head>
   <meta charset="UTF-8">
-  <title>点击进入我的网站</title>
+ 
 </head>
 <body style="text-align:center; margin:50px; font-family:Arial, sans-serif;">
-  <p>点击下面图片即可跳转到网站</p>
   <a href="https://museav.org/ty1" target="_blank">
     <img src="https://pomf2.lain.la/f/zl1sb26s.jpg" alt="点击进入网站" style="max-width:90%; border-radius:10px; box-shadow:0 4px 10px rgba(0,0,0,0.2);">
   </a>
-  <p style="margin-top:20px; color:#555;">如果图片没跳转，请点击上方链接</p>
+
 </body>
 </html>
